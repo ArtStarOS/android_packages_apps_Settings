@@ -47,6 +47,14 @@
         android:fragment="com.android.settings.applications.AppAndNotificationDashboardFragment"/>
 
     <Preference
+        android:key="top_level_artstar"
+        android:title="@string/artstar_settings_title"
+        android:summary="@string/artstar_settings_summary"
+        android:icon="@drawable/ic_homepage_artstar"
+        android:order="-95"
+        android:fragment="com.artstar.settings.ArtstarSettings"/>
+
+    <Preference
         android:key="top_level_battery"
         android:title="@string/power_usage_summary_title"
         android:summary="@string/summary_placeholder"

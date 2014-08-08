@@ -178,4 +178,7 @@ public class Settings extends SettingsActivity {
     public static class AccountDashboardActivity extends SettingsActivity {}
     public static class SystemDashboardActivity extends SettingsActivity {}
 
+    // ArtStar Settings
+    public static class ArtstarSettingsActivity extends SettingsActivity {}
+
 }
