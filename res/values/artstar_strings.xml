@@ -1,4 +1,4 @@
-<!--
+ <!--
      Copyright (C) 2020 CherishOS
      Copyright (C) 2020 ArtStarOS
 
@@ -19,5 +19,7 @@
     <!-- ArtStarOS Settings -->
     <string name="artstar_settings_title">ArtStarOS Settings</string>
     <string name="artstar_settings_summary">Ignoring Constraints. Message of Love</string>
+
+    <string name="battery_temp">Battery temperature</string>
 
 </resources>
