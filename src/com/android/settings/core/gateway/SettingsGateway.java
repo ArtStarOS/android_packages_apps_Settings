@@ -285,7 +285,7 @@ public class SettingsGateway {
             BatterySaverScheduleSettings.class.getName(),
             MobileNetworkListFragment.class.getName(),
             GlobalActionsPanelSettings.class.getName(),
-            DarkModeSettingsFragment.class.getName()
+            DarkModeSettingsFragment.class.getName(),
 	    ArtstarSettings.class.getName()
     };
 
