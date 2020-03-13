@@ -17,7 +17,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!-- ArtStarOS Settings -->
-    <string name="artstar_settings_title">Skateboard Settings</string>
+    <string name="artstar_settings_title">ArtStarOS Settings</string>
     <string name="artstar_settings_summary">Ignoring Constraints. Message of Love</string>
 
 </resources>
